@@ -1,0 +1,31 @@
+.offer_box1 {
+    background-image: url("https://wp.alithemes.com/html/evara/evara-frontend/assets/imgs/banner/banner-1.png");
+}
+.offer_box2 {
+    background-image: url("https://wp.alithemes.com/html/evara/evara-frontend/assets/imgs/banner/banner-2.png");
+}
+.offer_box3 {
+    background-image: url("https://wp.alithemes.com/html/evara/evara-frontend/assets/imgs/banner/banner-3.png");
+}
+.offer {
+    height: 150px;
+    width: 360px;
+    background-size: cover;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-size: 14px;
+    color: #90908E;
+    font-family: sans-serif;
+}
+.container {
+    justify-content: space-around;
+}
+.offer h4 {
+    width: 50%;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #222222;
+}
+.offer a {
+    text-decoration: none;
+}
