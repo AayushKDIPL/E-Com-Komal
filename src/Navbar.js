@@ -13,9 +13,9 @@ const Navbar=()=>{
                         <a href="/">Home</a>
                         <a href="/about">About</a>
                         <a href="/shop">Shop</a>
-                        <a href="#">Mega menu</a>
-                        <a href="#">Blog</a>
-                        <a href="#">Pages</a>
+                        <a href="/">Mega menu</a>
+                        <a href="/">Blog</a>
+                        <a href="/">Pages</a>
                         <a href="/contact">Contact</a>
                     </div>
                     <div className="col-2 number">
