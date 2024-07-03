@@ -11,7 +11,6 @@ import Shop from './Product/Shop';
 import CheckOut from './CheckOutCart/CheckOut';
 import ViewCart from './ViewCart/ViewCart';
 import Navbar from './Navbar';
-import Signup from './Signup';
 import Heart from './Heart';
 
 function App() {
