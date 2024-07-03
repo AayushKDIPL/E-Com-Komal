@@ -1,0 +1,49 @@
+.message h3{
+    font-size: 26px;
+    font-weight: 500;
+}
+.message p{
+    font-size: 14px;
+    font-weight: 400;
+    color: #8e8e90;
+}
+.btn-message {
+    display: inline-block;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 12px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #046963;
+    background-color: #088178;
+    cursor: pointer;
+}
+.form-row {
+    display: flex;
+    margin-bottom: 10px;
+    height: 40px;
+  }
+  
+  .form-input {
+    margin-right: 10px;
+    flex: 1;
+    border: 1px solid rgb(188, 188, 188);
+  }
+  
+  .form-input:last-child {
+    margin-right: 0;
+  }
+  
+  .form-textarea {
+    width: 100%;
+    height: 120px;
+    border: 1px solid rgb(188, 188, 188);
+    margin-bottom: 10px;
+  }
+  .form {
+    width: 60%;
+    margin-left: 20%;
+    height: 240px;
+  }

@@ -1,0 +1,42 @@
+.view-more {
+    text-align: center;
+}
+.view-more h4{
+    text-align: center;
+}
+.view-more a{
+    background-color: #088178;
+    height: 80px;
+    width: 120px;
+    color: white;
+    border-radius: 12%;
+    border: 1px solid black;
+}
+.box8 button {
+    background-color: #088178;
+    color: white;
+    border: 1px solid #088178;
+    height: 40px;
+    width: 120px;
+    font-weight: 400;
+    border-radius: 6px;
+    margin-top: 60px;
+}
+.box8-featured {
+    color: #088178;
+}
+.img-view-more {
+    display: flex;
+    justify-content: space-between;
+}
+.img-view-more1 {
+    width: 15%;
+    margin: 1%;
+}
+.img-view-more1 img{
+    width: 100%;
+    opacity: 0.6;
+}
+.img-view-more1 img:hover{
+    opacity: 1;
+}

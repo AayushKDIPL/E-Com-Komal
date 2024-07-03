@@ -1,0 +1,26 @@
+.span-per {
+    color: #046963;
+    font-size: 18px;
+    font-weight: 400;
+}
+.select-option {
+    width: 36%;
+}
+.btn-place-order8 {
+    display: inline-block;
+    border: 1px solid transparent;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    padding: 8px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    color: #fff;
+    border: 1px solid #046963;
+    background-color: #088178;
+    cursor: pointer; 
+} 
+.apply-coupon {
+    height: 40px;
+    width: 50%;
+}
