@@ -1,0 +1,45 @@
+.sale_img1 {
+    background-image: url("https://wp.alithemes.com/html/evara/evara-frontend/assets/imgs/banner/menu-banner-7.jpg");
+    background-size: cover;
+    width: 48%;
+    height: 400px;
+}
+.sale_img2 {
+    background-image: url("https://wp.alithemes.com/html/evara/evara-frontend/assets/imgs/banner/menu-banner-8.jpg");
+    background-size: cover;
+    height: 400px;
+    width: 48%;
+}
+.btn-time {
+    border: none;
+    background-color: #088178;
+    height: 46px;
+    width: 50px;
+    color: white;
+    font-weight: 600;
+    border-radius: 8%;
+}
+.time {
+    margin-right: 20px;
+    text-align: center;
+}
+.shop-now {
+    height: 44px;
+    width: 140px;
+    border: 2px solid #088178;
+    background-color: rgb(221, 237, 250);
+    color: #088178;
+    font-weight: 600;
+}
+.sale_content {
+    padding-left: 40px;
+    padding-top: 30px;
+    width: 260px;
+}
+.price {
+    color: red;
+}
+.oprice {
+    text-decoration: line-through;
+    color: rgb(146, 145, 145);
+}

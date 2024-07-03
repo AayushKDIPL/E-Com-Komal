@@ -1,0 +1,45 @@
+.box-div11 {
+    text-align: center;
+}
+.box-div11 h6{
+    font-size: 14px;
+    color: #088178;
+}
+.box-div11 h2{
+    font-size: 30px;
+}
+.box-div11 p{
+    font-size: 16px;
+}
+.box-img11 {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.box-box {
+    width: 31%;
+    margin-bottom: 30px;
+    height: 200px;
+    border-radius: 5%;
+    padding: 2%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(194, 193, 193);
+}
+.box-box11 {
+    width: 26%;
+}
+.box-box11 img{
+    width: 100%;
+    border-radius: 6%;
+    height: 100px;
+}
+.box-box12 {
+    width: 68%;
+}
+.box-box12 h6{
+    color: rgb(90, 90, 90);
+}
+.box-box12 p{
+    font-size: 14px;
+}

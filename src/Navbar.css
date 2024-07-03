@@ -1,0 +1,34 @@
+.row {
+    text-align: center;
+}
+.categories {
+    background-color: #088178;
+}
+.cat_logo {
+    justify-content: center;
+    text-align: center;
+    position: relative;
+    top: 30%;
+}
+.cat_content {
+    font-size: 1.3rem;
+}
+.dashed-line {
+    border: 1px solid rgb(6, 6, 6);
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+.nav {
+    align-items: center;
+    justify-content: space-around;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+.nav a{
+    text-decoration: none;
+    color: black;
+    font-weight: 300;
+}
+.number{
+    padding-top: 1rem;
+}
