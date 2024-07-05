@@ -1,0 +1,4 @@
+.card-blog {
+    display: flex;
+    flex-wrap: wrap;
+}
